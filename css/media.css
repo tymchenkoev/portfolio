@@ -1,0 +1,46 @@
+@media (max-width: 768px) {
+   .hero {
+    padding-top: 28px;
+   }
+   
+   
+   .header .nav__list {
+    display: none;
+   }
+    .hero__main {
+        flex-direction: column-reverse;
+        align-items: center;
+        padding-top: 80px;
+    }
+.hero__content {
+    width: 90%;
+}
+.hero__img-wrap {
+    width: 90%;
+}
+
+.title {
+
+    margin-bottom: 30px;
+    text-align: center;
+    }
+  
+    
+    .hero__subtitle {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .hero__btn-wrap {
+    text-align: center;
+    }
+    
+    .btn {
+        display: inline-block;
+        padding: 15px 25px;
+        
+    }
+
+    .achievements {
+padding: 50px 0px;
+    }
+}
